@@ -19,7 +19,7 @@ Click **Show Desktop** → it's right there. Add, check off, edit, or delete tas
 ## Install
 
 ```bash
-cd ~/Projects/plasma-todo-widget
+# From the root of this project
 kpackagetool6 --type Plasma/Applet --install .
 ```
 
