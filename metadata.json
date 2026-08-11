@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Id": "com.hermes.desktoptodo",
+        "Name": "Desktop Todo",
+        "Description": "Simple todo list widget that lives on your desktop",
+        "Icon": "checkbox",
+        "Version": "1.0",
+        "License": "MIT",
+        "Authors": [
+            {
+                "Name": "Hermes",
+                "Email": ""
+            }
+        ],
+        "Category": "Utilities",
+        "Website": "https://github.com/rerrl/plasma-todo-widget"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
